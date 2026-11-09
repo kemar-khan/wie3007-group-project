@@ -8,7 +8,7 @@ Universiti Malaya, WIE 3007 Data Mining (2026/2027 Sem 1). Due Week 14.
 ## Team
 | Member | GitHub | Branch | Model owned | Notebook section |
 |---|---|---|---|---|
-| Leader | @username | `feature/leader-baseline` | Decision Tree (baseline), Logistic Regression | Setup, evaluation harness, integration |
+| Member A | @username | `feature/leader-baseline` | Decision Tree (baseline), Logistic Regression | Setup, evaluation harness, integration |
 | Member B | @username | `feature/b-dataset-rf` | Random Forest | Dataset simulation, EDA |
 | Member C | @username | `feature/c-features-xgb` | XGBoost / Gradient Boosting | LLM/SLM feature engineering |
 | Member D | @username | `feature/d-eval-mlp` | MLP | Evaluation and interpretation |
