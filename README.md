@@ -6,14 +6,16 @@ Universiti Malaya, WIE 3007 Data Mining (2026/2027 Sem 1). Due Week 14.
 **Target variable:** _TBD_
 
 ## Team
-| Member | GitHub | Branch | Model owned | Notebook section |
-|---|---|---|---|---|
-| Member A | @username | `feature/leader-baseline` | Decision Tree (baseline), Logistic Regression | Setup, evaluation harness, integration |
-| Member B | @username | `feature/b-dataset-rf` | Random Forest | Dataset simulation, EDA |
-| Member C | @username | `feature/c-features-xgb` | XGBoost / Gradient Boosting | LLM/SLM feature engineering |
-| Member D | @username | `feature/d-eval-mlp` | MLP | Evaluation and interpretation |
+
+| Member | GitHub    | Branch                   | Model owned                                   | Notebook section                       |
+| ------ | --------- | ------------------------ | --------------------------------------------- | -------------------------------------- |
+| Akmal  | @username | `feature/akmal-baseline` | Decision Tree (baseline), Logistic Regression | Setup, evaluation harness, integration |
+| Dianah | @username | `feature/b-dataset-rf`   | Random Forest                                 | Dataset simulation, EDA                |
+| Fahiim | @username | `feature/c-features-xgb` | XGBoost / Gradient Boosting                   | LLM/SLM feature engineering            |
+| Veron  | @username | `feature/d-eval-mlp`     | MLP                                           | Evaluation and interpretation          |
 
 ## Repository structure
+
 ```
 data/raw/         generated (simulated) data
 data/processed/   data after LLM feature extraction
@@ -25,9 +27,11 @@ scripts/          helper scripts (commit counter)
 ```
 
 ## Workflow
+
 See [CONTRIBUTING.md](CONTRIBUTING.md). Short version: own branch, small commits, PR into `main`, one reviewer.
 
 ## Deliverables
+
 - [ ] GitHub repository
 - [ ] Jupyter notebook
 - [ ] Final report (5-7 pages, PDF/DOCX)
